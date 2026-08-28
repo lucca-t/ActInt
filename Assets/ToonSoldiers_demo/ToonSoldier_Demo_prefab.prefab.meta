@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4e267cce835af1488c1136d3fcc55f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69684
+  packageName: Toon Soldiers Demo
+  packageVersion: 1.1
+  assetPath: Assets/ToonSoldiers_demo/ToonSoldier_Demo_prefab.prefab
+  uploadId: 981694

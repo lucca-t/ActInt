@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public class Shoot : MonoBehaviour
+public class SpawnBox : MonoBehaviour
 {
     [SerializeField]
-    private GameObject BulletPrefab;
+    private GameObject SoldierBox;
 
     [SerializeField]
     private float fireRate = 0.5f;
@@ -13,9 +13,11 @@ public class Shoot : MonoBehaviour
 
     private float nextFireTime = 0f;
 
-    public Transform firePoint;
     void Update()
     {
+        // Reusando el codigo para disparar bala pero
+        // con random offset para spawnear a los enemigos
+
         // checar si se puede disparar de nuevo
         if (Time.time >= nextFireTime)
         {
@@ -27,10 +29,10 @@ public class Shoot : MonoBehaviour
 
     void Fire()
     {
-        // crear una bala
-        GameObject bullet = Instantiate(BulletPrefab, firePoint.position, Quaternion.identity);
 
-        // despawnear la bala
-        Destroy(bullet, bulletLifetime);
+        GameObject box = Instantiate(SoldierBox, transform.position, Quaternion.identity);
+
+        // despawnear el enemigo
+        Destroy(box, bulletLifetime);
     }
 }

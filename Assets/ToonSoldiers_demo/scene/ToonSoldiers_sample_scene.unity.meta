@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc08634282b032047995599d76e8f9db
+timeCreated: 1517336900
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69684
+  packageName: Toon Soldiers Demo
+  packageVersion: 1.1
+  assetPath: Assets/ToonSoldiers_demo/scene/ToonSoldiers_sample_scene.unity
+  uploadId: 981694
