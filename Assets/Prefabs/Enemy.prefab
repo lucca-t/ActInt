@@ -128,6 +128,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Kill
   targetTag: Bullet
+  BulletImpact: {fileID: 100002, guid: 00fedc70b62a31e448e8ccc298257b56, type: 3}
+  health: 2
 --- !u!114 &-1398023452143193699
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -140,7 +142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe2d1668d53434865afa7f57f0269d49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Fly
-  speed: -20
+  speed: -6
 --- !u!1001 &7271258265243267580
 PrefabInstance:
   m_ObjectHideFlags: 0

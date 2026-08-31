@@ -52,7 +52,7 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1638494186726374139}
   m_Enabled: 0
-  m_CastShadows: 1
+  m_CastShadows: 0
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 0
@@ -127,7 +127,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shoot
   BulletPrefab: {fileID: 6959135790030911631, guid: 2b5f359daaefbac748274cd1cb708d68, type: 3}
-  fireRate: 0.2
+  MuzzleFlash: {fileID: 100000, guid: 03a4a1935a9f4454c861dfa0aa6df562, type: 3}
+  fireRate: 1
   bulletLifetime: 3
   firePoint: {fileID: 6045677820500531398}
 --- !u!1 &2124920791671132660

@@ -22,7 +22,7 @@ public class SoldierBox : MonoBehaviour
 
     void Start()
     {
-        soldiersToAdd = Random.Range(-10, 0);
+        //soldiersToAdd = Random.Range(-10, 0);
         UpdateText(); 
     }
 
@@ -69,11 +69,8 @@ public class SoldierBox : MonoBehaviour
                     Vector3 randomOffset = Random.insideUnitSphere * clusterRadius;
                     randomOffset.y = 0; 
                     
-                    // Spawn them around whoever hit the box (the player OR the clone)
                     Vector3 spawnPosition = other.transform.position + randomOffset;
                     
-                    // CHANGE HERE: Use 'other.transform.root' instead of 'other.transform'
-                    // This ensures all new soldiers become direct children of the Main Player
                     Instantiate(soldierPrefab, spawnPosition, Quaternion.identity, other.transform.root);
                 }
             }
