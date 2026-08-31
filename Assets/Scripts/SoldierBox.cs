@@ -52,9 +52,7 @@ public class SoldierBox : MonoBehaviour
                 return;
             }
 
-            hasBeenCollected = true;
-            Debug.Log($"Adding {soldiersToAdd} soldiers to the console");
-            
+            hasBeenCollected = true;            
             // Cuantos soldados
             int currentSoldiers = other.transform.root.childCount;
             

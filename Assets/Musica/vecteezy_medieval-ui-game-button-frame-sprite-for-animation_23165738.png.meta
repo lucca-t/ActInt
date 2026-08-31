@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a53eed0a40844fdcd8c4f3f6f7c7d5cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 659
+        width: 314
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a31d14de79cc74ba9038008163f57
+      internalID: 891268481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 658
+        width: 313
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058ef75f5f71772c5b4da1e47934b00a
+      internalID: -1633740781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 658
+        width: 311
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea20c3aa3a06e80dbb9b9a8420c5442b
+      internalID: 353980992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resume
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 658
+        width: 314
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6911728f94dff0b52b5f86e51b61c5ec
+      internalID: 2060482100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 658
+        width: 313
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45073e077456fa2eb5fe23343489ed1
+      internalID: -1779946004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 550
+        width: 314
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7f24baa5b5f83309dde4779af37d62
+      internalID: -603441698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 550
+        width: 311
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b749a96e6b883da955d22d102189d4
+      internalID: 250286092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 548
+        width: 311
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870ee47970b742eea8ae7a5a71bbf7d
+      internalID: -1939595423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_8
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 550
+        width: 314
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5d23d248f63c02be16a3ad5b1cd9a
+      internalID: 277068523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_9
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 550
+        width: 312
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cb9b01392a6fba19e623839fc9d717
+      internalID: -1440119767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 439
+        width: 312
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43608fca20bc402b5bb7fe91566b8e48
+      internalID: 1054990074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 439
+        width: 311
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69cd48eab3558c7c8fb7de1d297d4fd
+      internalID: 1468968905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_12
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 439
+        width: 311
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dfdc9573d638f049c9f0ca9ac1f381
+      internalID: -1088532143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_13
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 439
+        width: 314
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde7d2e2bf443da39809ceae92306da0
+      internalID: -1661637293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_14
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 439
+        width: 313
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137484f4fb62c1fed8b8af160530f8bd
+      internalID: 1507136827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 271
+        width: 314
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a3f6d06b44d8d49113cd6ffa05fec
+      internalID: 335851096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 271
+        width: 313
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a88b75842c5e8ff0bdb4ba8bacf07ce
+      internalID: 12079903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 271
+        width: 311
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d075715b7f255f834a331871bd00f7c7
+      internalID: 1813825697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_18
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 271
+        width: 314
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9fd370091f21e29e092ff4f0b4db7
+      internalID: -1464382464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_19
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 271
+        width: 313
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7443f74f1d4d10d6dbe1fead44642640
+      internalID: 1090508343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 162
+        width: 314
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38792b9083d667a6dbe8cc8c641aa8ed
+      internalID: 1863990160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 161
+        width: 313
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b39134d618fda9dab4cc6332c57cdb
+      internalID: -396748712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_22
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 160
+        width: 311
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed688736965a315fbaebf507688a528
+      internalID: 927184029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_23
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 161
+        width: 314
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba09c6f31c74c5768ec0bfa7227ff9f
+      internalID: 1964057672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_24
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 161
+        width: 313
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b2dd74473efa119bfd6483cdcfa2a3
+      internalID: 2058212189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 313
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0692049db378daf880cd64f50e0cc99
+      internalID: -105441158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 51
+        width: 311
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96ef919e4b28021bf577abc52d2334
+      internalID: -1871110920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 51
+        width: 314
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228969ab1e497c92b407fc928582894
+      internalID: 2046360324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_28
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 51
+        width: 314
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6f1ca504e04afbabb0beda6b93438
+      internalID: 1164194815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_29
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 50
+        width: 311
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32db74d97466e92d8fe0d276f2b7dde
+      internalID: -688035083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_30
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 425
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6737ea6a18edfd9a25b80fb965a85
+      internalID: 566638105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f44a017888a3a2b3ea51d97b1dfb0bfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":2,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Play: 891268481
+      Restart: -1779946004
+      Resume: 2060482100
+      Start: -1633740781
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_10: 1054990074
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_11: 1468968905
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_12: -1088532143
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_13: -1661637293
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_14: 1507136827
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_15: 335851096
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_16: 12079903
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_17: 1813825697
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_18: -1464382464
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_19: 1090508343
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_2: 353980992
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_20: 1863990160
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_21: -396748712
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_22: 927184029
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_23: 1964057672
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_24: 2058212189
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_25: -105441158
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_26: -1871110920
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_27: 2046360324
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_28: 1164194815
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_29: -688035083
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_30: 566638105
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_5: -603441698
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_6: 250286092
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_7: -1939595423
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_8: 277068523
+      vecteezy_medieval-ui-game-button-frame-sprite-for-animation_23165738_9: -1440119767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
